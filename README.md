@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-keurcien-choose-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-keurcien-choose-mcp-server)
+
 # Choose MCP Server Setup
 
 1. Start by downloading the Claude Desktop Client: https://claude.ai/download
